@@ -20,4 +20,14 @@ Tips which are mentioned in the book are as following:
 14. Get Back to Normal Mode
 15. Paste from a Register Without leaving Insert Mode
 16. Do Back-of-the-Envelope Calculations in Place
+17. Insert Unusual Characters by character code
+18. Insert Unusual Characters by Diagraph
+19. Overwrite Existing Text with Replace Mode
+20. Grok Visual Mode
+21. Define a Visual Selection
+22. Repeat Line-Wise Visual Commands
+23. Prefer Operators to Visual Commands Where Possible
+24. Edit Tabular Data with Visual-Block Mode
+25. Change Columns of Text
+26. Append After a Ragged Visual Block
 

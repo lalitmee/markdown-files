@@ -4,7 +4,7 @@
 
 The most import thing to learn about in vim is...
 
-```
+```markdown
 :help
 ```
 
@@ -64,6 +64,7 @@ d f space => deletes with the space
 y y => copies the current line
 p => paste below the line
 P => paste above the line
+<C-r>{register} => paste in Instert Mode
 ```
 
 ##Select
@@ -244,9 +245,38 @@ gv      - reselect block
 
 ## Keystrokes for deleting in Insert Mode
 
-| Keystrokes | Effect                                |
-| ---------- | ------------------------------------- |
-| **<C-h>**  | Delete back one character {Backspace} |
-| **<C-w>**  | Delete back one word                  |
-| **<C-u>**  | Delete back to start of line          |
+| Keystrokes   | Effect                                |
+| ------------ | ------------------------------------- |
+| **Ctrl + h** | Delete back one character {Backspace} |
+| **Ctrl + w** | Delete back one word                  |
+| **Ctrl + u** | Delete back to start of line          |
+
+## Paste in Instert Mode
+
+The **Ctrl + r{register}** command is convenient for pasting a few words from Insert
+mode. If the register contains a lot of text, you might notice a slight delay
+before the screen updates. That’s because Vim inserts the text from the reg-
+ister as if it were being typed one character at a time. If the ‘textwidth’ or
+‘autoindent’ options are enabled, you might end up with unwanted line breaks
+or extra indentation.
+The **Ctrl + r + Ctrl + p{register}** command is smarter. It inserts text literally and fixes
+any unintended indentation (see :h i_CTRL-R_CTRL-P ). But it’s a bit of a handful!
+If I want to paste a register containing multiple lines of text, I prefer to switch
+to Normal mode and use one of the put commands
+
+## Expression Register
+
+- **<Ctrl + r>=** 
+- This opens a prompt at the bottom of the screen
+  where we can type the expression that we want to evaluate. When done, we
+  hit **Enter** , and Vim inserts the result at our current position in the document.
+
+## Visual Mode 
+
+| Command      | Effect                              |
+| ------------ | ----------------------------------- |
+| v            | Enable character-wise visual mode   |
+| V            | Enable line-wise visual mode        |
+| **Ctrl + v** | Enable block-wise visual mode       |
+| gv           | Reselect the  last visual selection |
 
