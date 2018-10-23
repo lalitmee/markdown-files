@@ -67,7 +67,7 @@ P => paste above the line
 <C-r>{register} => paste in Instert Mode
 ```
 
-##Select
+## Select
 
 ```markdown
 v a " => visually selects all inside doublequotes including doublequotes
