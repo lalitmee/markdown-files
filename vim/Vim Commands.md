@@ -280,3 +280,30 @@ to Normal mode and use one of the put commands
 | **Ctrl + v** | Enable block-wise visual mode       |
 | gv           | Reselect the  last visual selection |
 
+## Command Mode
+
+| Command                                        | Effect                                                       |
+| ---------------------------------------------- | ------------------------------------------------------------ |
+| :[range]delete [x]                             | Delete specified lines [into register x]<br/>                |
+| :[range]yank [x]                               | Yank specified lines [into register x]                       |
+| :[line]put [x]                                 | Put the text from register x after the specified line        |
+| :[range]copy {address}                         | Copy the specified lines to below the line specified<br/>by {address} |
+| :[range]move {address}                         | Move the specified lines to below the line specified<br/>by {address} |
+| :[range]join                                   | Join the specified lines                                     |
+| **:[range]normal {commands}**                  | Execute Normal mode {commands} on each speci-<br/>fied line  |
+| :[range]substitute/{pat-tern}/{string}/[flags] | Replace occurrences of {pattern} with {string} on each specified line |
+| :[range]global/{pattern}/[cmd]                 | Execute the Ex command [cmd] on all specified<br/>lines where the {pattern} matches |
+| :[range]move {address} / :[range]m {address}   | Move lines                                                   |
+| :[range]copy {address} / :[range]t {address}   | Copy lines                                                   |
+| @:                                             | **Repeats the last Ex Command**<br />After running **@:** for the first time, we can subsequently repeat it with the **@@** command. |
+| q/                                             | Open the command-line window with history of searches        |
+| q:                                             | Open the command-line window with history of Ex commands     |
+| **Ctrl + f**                                   | Switch from Command-Line mode to the command-line window     |
+
+### Notes
+
+> - Each time we run :bnext (or repeat it with the @: command), it
+>   adds a record to the jump list. The (**Ctrl + o**) command goes back to the previous
+>   record in the jump list.
+> - The (**Ctrl + d**) command asks Vim to reveal a list of possible completions (see
+>   :h c_CTRL-D ).

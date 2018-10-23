@@ -30,4 +30,13 @@ Tips which are mentioned in the book are as following:
 24. Edit Tabular Data with Visual-Block Mode
 25. Change Columns of Text
 26. Append After a Ragged Visual Block
+27. Meet Vim's Command Line
+28. Execute a Command on One or More Consecutive Lines
+29. Duplicate or Move Lines Using ‘:t’ and ‘:m’ Commands
+30. Run Normal Mode Commands Across a Range
+31. Repeat the Last Ex Command
+32. Tab-Complete Your Ex Commands
+33. Insert the Current Word at the Command Prompt
+34. Recall Commands from History
+35. Run Commands in the Shell
 
