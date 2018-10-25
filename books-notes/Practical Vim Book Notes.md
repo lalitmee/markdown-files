@@ -44,4 +44,10 @@ Tips which are mentioned in the book are as following:
 38. Manage Hidden Files
 39. Divide Your Workspace into Split Windows
 40. Organize Your Window Layouts with Tab Pages
+41. Open a File by Its Filepath Using ‘:edit’
+42. Open a File by Its Filename Using ‘:find’
+43. Explore the File System with netrw
+44. Save Files to Nonexistent Directories
+45. Save a File as the Super User
+46. Keep Your Fingers on the Home Row
 

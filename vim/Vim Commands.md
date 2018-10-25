@@ -315,6 +315,13 @@ to Normal mode and use one of the put commands
 | [N] Ctrl + w + _  | Set active window height to [N] rows     |
 | [N] Ctrl + w + \| | Set active window width to [N] columns   |
 
+## vimrc 
+
+```
+" This is for getting the current buffer filepath in ex-mode
+cnoremap <expr> %% getcmdtype() == ':' ? expand('%:h').'/' : '%%'
+```
+
 ### Notes
 
 > - Each time we run :bnext (or repeat it with the @: command), it
