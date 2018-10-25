@@ -299,6 +299,21 @@ to Normal mode and use one of the put commands
 | q/                                             | Open the command-line window with history of searches        |
 | q:                                             | Open the command-line window with history of Ex commands     |
 | **Ctrl + f**                                   | Switch from Command-Line mode to the command-line window     |
+| :[range]!{filter}                              | Filter the specified [range] through external program {filter} |
+| :[range]write !{cmd}                           | Execute {cmd} in the shell with [range] lines as standard input |
+| :read !{cmd}                                   | Execute {cmd} in the shell and insert its standard output<br/>below the cursor |
+| :!{cmd}                                        | Execute {cmd} with the shell                                 |
+| :shell                                         | Start a shell (return to Vim by typing exit )                |
+
+## Resizing and Rearranging Windows
+
+| Keystrokes        | Buffer Contents                          |
+| ----------------- | ---------------------------------------- |
+| Ctrl + w + =      | Equalize width and height of all windows |
+| Ctrl + w + _      | Maximize height of the active window     |
+| Ctrl + w + \|     | Maximize width of the active window      |
+| [N] Ctrl + w + _  | Set active window height to [N] rows     |
+| [N] Ctrl + w + \| | Set active window width to [N] columns   |
 
 ### Notes
 
@@ -307,3 +322,6 @@ to Normal mode and use one of the put commands
 >   record in the jump list.
 > - The (**Ctrl + d**) command asks Vim to reveal a list of possible completions (see
 >   :h c_CTRL-D ).
+> - **[(Ctrl + w) w]** => Cycle between open windows
+> - **Ctrl + w + T** Move the current window into its own tab
+

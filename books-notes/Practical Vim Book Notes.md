@@ -39,4 +39,9 @@ Tips which are mentioned in the book are as following:
 33. Insert the Current Word at the Command Prompt
 34. Recall Commands from History
 35. Run Commands in the Shell
+36. Track Open Files with the Buffer List
+37. Group Buffers into a Collection with the Argument List
+38. Manage Hidden Files
+39. Divide Your Workspace into Split Windows
+40. Organize Your Window Layouts with Tab Pages
 
