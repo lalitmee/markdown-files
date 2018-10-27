@@ -50,4 +50,5 @@ Tips which are mentioned in the book are as following:
 44. Save Files to Nonexistent Directories
 45. Save a File as the Super User
 46. Keep Your Fingers on the Home Row
+47. Distinguish Between Real Lines and Display Lines
 

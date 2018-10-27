@@ -315,6 +315,22 @@ to Normal mode and use one of the put commands
 | [N] Ctrl + w + _  | Set active window height to [N] rows     |
 | [N] Ctrl + w + \| | Set active window width to [N] columns   |
 
+## Moving Around
+
+| Command | Move Cursor                                 |
+| ------- | ------------------------------------------- |
+| j       | Down one real line                          |
+| gj      | Down one display line                       |
+| k       | Up one real line                            |
+| gk      | Up one display line                         |
+| 0       | To first character of real line             |
+| g0      | To first character of display line          |
+| ^       | To first nonblank character of real line    |
+| g^      | To first nonblank character of display line |
+| $       | To end of real line                         |
+| g$      | To end of display line                      |
+
+
 ## vimrc 
 
 ```
