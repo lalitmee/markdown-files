@@ -330,6 +330,52 @@ to Normal mode and use one of the put commands
 | $       | To end of real line                         |
 | g$      | To end of display line                      |
 
+## Find based on Character
+
+| Command | Effect                                                       |
+| ------- | ------------------------------------------------------------ |
+| f{char} | Forward to the next occurrence of {char}                     |
+| F{char} | Backward to the previous occurrence of {char}                |
+| t{char} | Forward to the character before the next occurrence of {char} |
+| T{char} | Backward to the character after the previous occurrence of {char} |
+| ;       | Repeat the last character-search command                     |
+| ,       | Reverse the last character-search command                    |
+
+## Vim's Automatic Marks
+
+| Keystrokes | Buffer Contents                                   |
+| ---------- | ------------------------------------------------- |
+| ``         | Position before the last jump within current file |
+| `.         | Location of last change                           |
+| `^         | Location of last insertion                        |
+| `[         | Start of last change or yank                      |
+| `]         | End of last change or yank                        |
+| `<         | Start of last visual selection                    |
+| `>         | End of last visual selection                      |
+
+## Selection of Jumps
+
+| Command                                    | Effect                                         |
+| ------------------------------------------ | ---------------------------------------------- |
+| [count]G                                   | Jump to line number                            |
+| //pattern **CR** / ?pattern **CR** / n / N | Jump to next/previous occurrence of pattern    |
+| %                                          | Jump to matching parenthesis                   |
+| ( / )                                      | Jump to start of previous/next sentence        |
+| { / }                                      | Jump to start of previous/next paragraph       |
+| H / M / L                                  | Jump to top/middle/bottom of screen            |
+| gf                                         | Jump to file name under the cursor             |
+| <C-]>                                      | Jump to definition of keyword under the cursor |
+| ’{mark} / `{mark}                          | Jump to a mark                                 |
+
+## Read only registers
+
+| Register | Contents                   |
+| -------- | -------------------------- |
+| "%       | Name of the current file   |
+| "#       | Name of the alternate file |
+| ".       | Last inserted text         |
+| ":       | Last Ex command            |
+| "/       | Last search pattern        |
 
 ## vimrc 
 

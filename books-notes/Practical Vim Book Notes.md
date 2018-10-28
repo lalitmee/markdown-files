@@ -51,4 +51,19 @@ Tips which are mentioned in the book are as following:
 45. Save a File as the Super User
 46. Keep Your Fingers on the Home Row
 47. Distinguish Between Real Lines and Display Lines
+48. Move Word-Wise
+49. Find by Character
+50. Search to Navigate
+51. Trace Your Selection with Precision Text Objects
+52. Delete Around, or Change Inside
+53. Mark Your Place and Snap Back to It
+54. Jump Between Matching Parentheses
+55. Traverse the Jump List
+56. Traverse the Change List
+57. Jump to the Filename Under the Cursor
+58. Snap Between Files Using Global Marks
+59. Delete, Yank, and Put with Vim’s Unnamed Register
+60. Grok Vim’s Registers
+61. Replace a Visual Selection with a Register
+62. Paste from a Register
 
