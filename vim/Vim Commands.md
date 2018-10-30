@@ -393,4 +393,5 @@ cnoremap <expr> %% getcmdtype() == ':' ? expand('%:h').'/' : '%%'
 >   :h c_CTRL-D ).
 > - **[(Ctrl + w) w]** => Cycle between open windows
 > - **Ctrl + w + T** Move the current window into its own tab
+> - **qA** will append the macros what we have stored in the **a** register
 

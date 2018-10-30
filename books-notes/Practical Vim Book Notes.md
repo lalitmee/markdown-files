@@ -71,4 +71,15 @@ Tips which are mentioned in the book are as following:
 65. Normalize, Strike, Abort
 66. Play Back with a Count
 67. Repeat a Change on Contiguous Lines
+68. Append Commands to a Macro
+69. Act Upon a Collection of Files
+70. Evaluate an Iterator to Number Items in a List
+71. Edit the Contents of a Macro
+72. Tune the Case Sensitivity of Search Patterns
+73. Use the \v Pattern Switch for Regex Searches
+74. Use the \V Literal Switch for Verbatim Searches
+75. Use Parentheses to Capture Submatches
+76. Stake the Boundaries of a Word
+77. Stake the Boundaries of a Match
+78. Escape Problem Characters
 
