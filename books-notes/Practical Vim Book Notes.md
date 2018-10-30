@@ -66,4 +66,9 @@ Tips which are mentioned in the book are as following:
 60. Grok Vim’s Registers
 61. Replace a Visual Selection with a Register
 62. Paste from a Register
+63. Interact with the System Clipboard
+64. Record and Execute a Macro
+65. Normalize, Strike, Abort
+66. Play Back with a Count
+67. Repeat a Change on Contiguous Lines
 
