@@ -377,11 +377,29 @@ to Normal mode and use one of the put commands
 | ":       | Last Ex command            |
 | "/       | Last search pattern        |
 
+### Special Characters for Replacement Strings
+
+| Symbol         | Represents                                                   |
+| -------------- | ------------------------------------------------------------ |
+| \r             | Insert a carriage return                                     |
+| \t             | Insert a tab character                                       |
+| \\             | Insert a single backslash                                    |
+| \1             | Insert the first submatch                                    |
+| \2             | Insert the second submatch (and so on, up to \9 )            |
+| \0             | Insert the entire matched pattern                            |
+| &              | Insert the entire matched pattern                            |
+| ~              | Use {string} from the previous invocation of :substitute     |
+| \={Vim script} | Evaluate {Vim script} expression; use result as replacement {string} |
+
 ## vimrc 
 
 ```
 " This is for getting the current buffer filepath in ex-mode
 cnoremap <expr> %% getcmdtype() == ':' ? expand('%:h').'/' : '%%'
+
+" The :&& command repeats the last substitute pattern with same flags
+nnoremap & :&&<CR>
+xnoremap & :&&<CR>
 ```
 
 ### Notes

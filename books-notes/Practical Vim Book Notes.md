@@ -82,4 +82,22 @@ Tips which are mentioned in the book are as following:
 76. Stake the Boundaries of a Word
 77. Stake the Boundaries of a Match
 78. Escape Problem Characters
+79. Meet the Search Command
+80. Highlight Search Matches
+81. Preview the First Match Before Execution
+82. Count the Matches for the Current Pattern
+83. Offset the Cursor to the End of a Search Match
+84. Operate on a Complete Search Match
+85. Create Complex Patterns by Iterating upon Search History
+86. Search for the Current Visual Selection
+87. Meet the Substitute Command
+88. Find and Replace Every Match in a File
+89. Eyeball Each Substitution
+90. Reuse the Last Search Pattern
+91. Replace with the Contents of a Register
+92. Repeat the Previous Substitute Command
+93. Rearrange CSV Fields Using Submatches
+94. Perform Arithmetic on the Replacement
+95. Swap Two or More Words
+96. Find and Replace Across Multiple Files
 
