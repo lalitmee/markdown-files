@@ -100,4 +100,14 @@ Tips which are mentioned in the book are as following:
 94. Perform Arithmetic on the Replacement
 95. Swap Two or More Words
 96. Find and Replace Across Multiple Files
+97. Meet the Global Command
+98. Delete Lines Containing a Pattern
+99. Collect TODO Items in a Register
+100. Alphabetize the Properties of Each Rule in a CSS File
+101. Meet ctags
+102. Configure Vim to Work with ctags
+103. Navigate Keyword Definitions with Vim’s Tag Navigation
+     Commands
+104. Compile Code Without Leaving Vim
+105. Browse the Quickfix List
 

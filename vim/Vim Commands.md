@@ -391,6 +391,36 @@ to Normal mode and use one of the put commands
 | ~              | Use {string} from the previous invocation of :substitute     |
 | \={Vim script} | Evaluate {Vim script} expression; use result as replacement {string} |
 
+### This table summarizes the commands that we can use to navigate our code-base using tags:
+
+| Command          | Effect                                                       |
+| ---------------- | ------------------------------------------------------------ |
+| <C-]>            | Jump to the first tag that matches the word under the cursor |
+| g<C-]>           | Prompt user to select from multiple matches for the word under the cursor. If only one match exists, jump to it without prompting. |
+| :tag {keyword}   | Jump to the first tag that matches {keyword}                 |
+| :tjump {keyword} | Prompt user to select from multiple matches for {keyword} . If only one match exists, jump to it without prompting. |
+| :pop or **C-t ** | Reverse through tag history                                  |
+| :tag             | Advance through tag history                                  |
+| :tnext           | Jump to next matching tag                                    |
+| :tprev           | Jump to previous matching tag                                |
+| :tfirst          | Jump to first matching tag                                   |
+| :tlast           | Jump to last matching tag                                    |
+| :tselect         | Prompt user to choose an item from the tag match list        |
+
+### Commands for Navigating the Quickfix List
+
+| Command | Action                             |
+| ------- | ---------------------------------- |
+| :cnext  | Jump to next item                  |
+| :cprev  | Jump to previous item              |
+| :cfirst | Jump to first item                 |
+| :clast  | Jump to last item                  |
+| :cnfile | Jump to first item in next file    |
+| :cpfile | Jump to last item in previous file |
+| :cc N   | Jump to nth item                   |
+| :copen  | Open the quickfix window           |
+| :cclose | Close the quickfix window          |
+
 ## vimrc 
 
 ```
@@ -400,6 +430,16 @@ cnoremap <expr> %% getcmdtype() == ':' ? expand('%:h').'/' : '%%'
 " The :&& command repeats the last substitute pattern with same flags
 nnoremap & :&&<CR>
 xnoremap & :&&<CR>
+
+" For populating the Quickfix list with Buffers
+command! -nargs=0 -bar Qargs execute 'args' QuickfixFilenames()
+function! QuickfixFilenames()
+let buffer_numbers = {}
+for quickfix_item in getqflist()
+let buffer_numbers[quickfix_item['bufnr']] = bufname(quickfix_item['bufnr'])
+endfor
+return join(map(values(buffer_numbers), 'fnameescape(v:val)'))
+endfunction
 ```
 
 ### Notes
