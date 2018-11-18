@@ -110,4 +110,20 @@ Tips which are mentioned in the book are as following:
      Commands
 104. Compile Code Without Leaving Vim
 105. Browse the Quickfix List
+106. Recall Results from a Previous Quickfix List
+107. Customize the External Compiler
+108. Call grep Without Leaving Vim
+109. Customize the grep Program
+110. Grep with Vim’s Internal Search Engine
+111. Meet Vim’s Keyword Autocompletion
+112. Work with the Autocomplete Pop-Up Menu
+113. Understand the Source of Keywords
+114. Autocomplete Words from the Dictionary
+115. Autocomplete Entire Lines
+116. Autocomplete Filenames
+117. Autocomplete with Context Awareness
+118. Spell Check Your Work
+119. Use Alternate Spelling Dictionaries
+120. Add Words to the Spell File
+121. Fix Spelling Errors from Insert Mode
 

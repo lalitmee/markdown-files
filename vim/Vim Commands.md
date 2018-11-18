@@ -421,6 +421,30 @@ to Normal mode and use one of the put commands
 | :copen  | Open the quickfix window           |
 | :cclose | Close the quickfix window          |
 
+### Vim's Autocomplete Methods
+
+| Command | Type of Completion      |
+| ------- | ----------------------- |
+| C-n     | Generic keywords        |
+| C-x C-n | Current buffer keywords |
+| C-x C-i | Included file keywords  |
+| C-x C-] | tags file keywords      |
+| C-x C-k | Dictionary lookup       |
+| C-x C-l | Whole line completion   |
+| C-x C-f | Filename completion     |
+| C-x C-o | Omni-completion         |
+
+### Vim Spell Checker's Commands
+
+| Command | Effect                                   |
+| ------- | ---------------------------------------- |
+| ]s      | Jump to next spelling error              |
+| [s      | Jump to previous spelling error          |
+| z=      | Suggest corrections for current word     |
+| zg      | Add current word to spell file           |
+| zw      | Remove current word from spell file      |
+| zug     | Revert zg or zw command for current word |
+
 ## vimrc 
 
 ```
