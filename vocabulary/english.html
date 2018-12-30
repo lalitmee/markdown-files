@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title></title>
+    <meta name="author" content="(Lalit Kumar)" />
+    <style type="text/css">
+      .underline {
+        text-decoration: underline;
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      href="http://cdn.jsdelivr.net/reveal.js/3.0.0/css/reveal.css"
+    />
+
+    <link
+      rel="stylesheet"
+      href="http://cdn.jsdelivr.net/reveal.js/3.0.0/css/theme/moon.css"
+      id="theme"
+    />
+
+    <!-- If the query includes 'print-pdf', include the PDF print sheet -->
+    <script>
+      if (window.location.search.match(/print-pdf/gi)) {
+        var link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'http://cdn.jsdelivr.net/reveal.js/3.0.0/css/print/pdf.css';
+        document.getElementsByTagName('head')[0].appendChild(link);
+      }
+    </script>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section id="sec-title-slide">
+          <h2 class="author">Lalit Kumar</h2>
+          <p class="date">Created: 2018-12-24 Mon 16:19</p>
+        </section>
+        <section id="table-of-contents">
+          <div id="table-of-contents">
+            <h2>Table of Contents</h2>
+            <div id="text-table-of-contents">
+              <ul>
+                <li>
+                  <a href="#/slide-orgbafad9a">1. Vocabulary Words</a>
+                  <ul>
+                    <li>
+                      <a href="#/slide-orgbbd41ce">
+                        1.1. Words From Reading Books
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#/slide-org61d19a0">1.2. Words From TV Series</a>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </section>
+        <section>
+          <section id="slide-orgbafad9a">
+            <h2 id="orgbafad9a">
+              <span class="section-number-2">1</span>
+              Vocabulary Words
+            </h2>
+            <div class="outline-text-2" id="text-1"></div>
+          </section>
+          <section id="slide-orgbbd41ce">
+            <h3 id="orgbbd41ce">
+              <span class="section-number-3">1.1</span>
+              Words From Reading Books
+            </h3>
+            <ul>
+              <li>
+                <b>Feeble:</b>
+                Weakly, Imbecile
+              </li>
+
+              <li>
+                <b>Fathom:</b>
+                Measuring the deep
+              </li>
+
+              <li>
+                <b>Truce:</b>
+                Real, True, Accurate
+              </li>
+
+              <li>
+                <b>Pedant:</b>
+                A person who is excessively concerned with minor details and
+                rules or with displaying academic learning
+              </li>
+
+              <li>
+                <b>Avenge:</b>
+                Revenge, Retaliate
+              </li>
+            </ul>
+          </section>
+          <section id="slide-org61d19a0">
+            <h3 id="org61d19a0">
+              <span class="section-number-3">1.2</span>
+              Words From TV Series
+            </h3>
+            <ul>
+              <li>
+                <b>Expediency:</b>
+                Advantage, Benefit, Profit
+              </li>
+
+              <li>
+                <b>Subpoena:</b>
+                Leagal orders to show up in the court
+              </li>
+            </ul>
+          </section>
+        </section>
+      </div>
+    </div>
+    <script src="http://cdn.jsdelivr.net/reveal.js/3.0.0/lib/js/head.min.js"></script>
+    <script src="http://cdn.jsdelivr.net/reveal.js/3.0.0/js/reveal.js"></script>
+
+    <script>
+      // Full list of configuration options available here:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: false,
+        center: true,
+        slideNumber: 'c',
+        rollingLinks: false,
+        keyboard: true,
+        overview: true,
+
+        theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+        transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+        transitionSpeed: 'default',
+        multiplex: {
+          secret: '', // null if client
+          id: '', // id, obtained from socket.io server
+          url: '' // Location of socket.io server
+        },
+
+        // Optional libraries used to extend on reveal.js
+        dependencies: [
+          {
+            src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/lib/js/classList.js',
+            condition: function() {
+              return !document.body.classList;
+            }
+          },
+          {
+            src:
+              'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/markdown/marked.js',
+            condition: function() {
+              return !!document.querySelector('[data-markdown]');
+            }
+          },
+          {
+            src:
+              'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/markdown/markdown.js',
+            condition: function() {
+              return !!document.querySelector('[data-markdown]');
+            }
+          },
+          {
+            src:
+              'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/zoom-js/zoom.js',
+            async: true,
+            condition: function() {
+              return !!document.body.classList;
+            }
+          },
+          {
+            src:
+              'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/notes/notes.js',
+            async: true,
+            condition: function() {
+              return !!document.body.classList;
+            }
+          }
+        ]
+      });
+    </script>
+  </body>
+</html>
