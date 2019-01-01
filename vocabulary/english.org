@@ -19,7 +19,10 @@
    | Meddle     | Tamper, interfere in or busy oneself unduly with something that is not one's concern                                                         |
    | Frown      | a facial expression or look characterized by a furrowing of one's brows                                                                      |
    | Pious      | Holy, Pure                                                                                                                                   |
-   |            |                                                                                                                                              |
+   | Engrave    | cut or carve (a text or design) on the surface of a hard object                                                                              |
+   | Soot       | Lampblack, Kajal(in Hindi), Kalikh(sometimes in some sense)                                                                                  |
+   | Languish   | (of a person or other living thing) lose or lack vitality; grow weak or feeble                                                                                                                                             |
+
 ** Words From TV Series
 
    | Words      | Meaning                         |
