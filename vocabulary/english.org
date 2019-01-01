@@ -2,38 +2,27 @@
 
 ** Words From Reading Books
 
-   - *Feeble:* Weakly, Imbecile
-
-   - *Fathom:* Measuring the deep
-
-   - *Truce:* Real, True, Accurate
-
-   - *Pedant:* A person who is excessively concerned with minor details and rules or with displaying academic learning
-
-   - *Avenge:* Revenge, Retaliate
-
-   - *Silhouette:* the dark shape and outline of someone or something visible against a lighter background, especially in dim light.
-
-   - *Conviction:* a formal declaration that someone is guilty of a criminal offense, made by the verdict of a jury or the decision of a judge in a court of law.
-
-   - *Morbid:* Diseased, Ill
-
-   - *Riddance:* the action of getting rid of a troublesome or unwanted person or thing
-
-   - *Stank:* have a strong unpleasant smell
-
-   - *Stilt:* Pile, Staff
-
-   - *Tart:* sharp or acid in taste
-
-   - *Meddle:* Tamper, interfere in or busy oneself unduly with something that is not one's concern
-
-   - *Frown:* a facial expression or look characterized by a furrowing of one's brows
-
-   - *Pious:* Holy, Pure
-
+   | Words      | Meaning                                                                                                                                      |
+   |------------+----------------------------------------------------------------------------------------------------------------------------------------------|
+   | Feeble     | Weakly, Imbecile                                                                                                                             |
+   | Fathom     | Measuring the deep                                                                                                                           |
+   | Truce      | Real, True, Accurate                                                                                                                         |
+   | Pedant     | person who is excessively concerned with minor details and rules or with displaying academic learning                                        |
+   | Avenge     | Revenge, Retaliate                                                                                                                           |
+   | Silhouette | dark shape and outline of someone or something visible against a lighter background, especially in dim light.                                |
+   | Conviction | formal declaration that someone is guilty of a criminal offense, made by the verdict of a jury or the decision of a judge in a court of law. |
+   | Morbid     | Diseased, Ill                                                                                                                                |
+   | Riddance   | action of getting rid of a troublesome or unwanted person or thing                                                                           |
+   | Stank      | have a strong unpleasant smell                                                                                                               |
+   | Stilt      | Pile, Staff                                                                                                                                  |
+   | Tart       | sharp or acid in taste                                                                                                                       |
+   | Meddle     | Tamper, interfere in or busy oneself unduly with something that is not one's concern                                                         |
+   | Frown      | a facial expression or look characterized by a furrowing of one's brows                                                                      |
+   | Pious      | Holy, Pure                                                                                                                                   |
+   |            |                                                                                                                                              |
 ** Words From TV Series
 
-   - *Expediency:* Advantage, Benefit, Profit
-
-   - *Subpoena:* Leagal orders to show  up in the court
+   | Words      | Meaning                         |
+   |------------+---------------------------------|
+   | Expediency | Advantage, Benefit, Profit      |
+   | Subpoena   | orders to show  up in the court |
