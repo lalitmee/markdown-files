@@ -1,10 +1,10 @@
 * Spacemacs ABC
 ** SPC
-   - *SPC:* run M-x command
-   - *TAB:* go to last buffer
-   - *!:* run any shell command
-   - *':* open shell
-   - ** or /:* smart search inside the whole project
-   - *,:* save buffer
-   - *;:* comment the line after pressing two times
-   - *?:* show keybindings
+   - SPC : run M-x command
+   - TAB : go to last buffer
+   - ! : run any shell command
+   - ' : open shell
+   - * or /: smart search inside the whole project
+   - ,: save buffer
+   - ;: comment the line after pressing two times
+   - ?: show keybindings
