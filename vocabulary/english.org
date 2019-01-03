@@ -2,39 +2,49 @@
 
 ** Words From Reading Books
 
-   | Words      | Meaning                                                                                                                                      |
-   |------------+----------------------------------------------------------------------------------------------------------------------------------------------|
-   | Feeble     | Weakly, Imbecile                                                                                                                             |
-   | Fathom     | Measuring the deep                                                                                                                           |
-   | Truce      | Real, True, Accurate                                                                                                                         |
-   | Pedant     | person who is excessively concerned with minor details and rules or with displaying academic learning                                        |
-   | Avenge     | Revenge, Retaliate                                                                                                                           |
-   | Silhouette | dark shape and outline of someone or something visible against a lighter background, especially in dim light.                                |
-   | Conviction | formal declaration that someone is guilty of a criminal offense, made by the verdict of a jury or the decision of a judge in a court of law. |
-   | Morbid     | Diseased, Ill                                                                                                                                |
-   | Riddance   | action of getting rid of a troublesome or unwanted person or thing                                                                           |
-   | Stank      | have a strong unpleasant smell                                                                                                               |
-   | Stilt      | Pile, Staff                                                                                                                                  |
-   | Tart       | sharp or acid in taste                                                                                                                       |
-   | Meddle     | Tamper, interfere in or busy oneself unduly with something that is not one's concern                                                         |
-   | Frown      | a facial expression or look characterized by a furrowing of one's brows                                                                      |
-   | Pious      | Holy, Pure                                                                                                                                   |
-   | Engrave    | cut or carve (a text or design) on the surface of a hard object                                                                              |
-   | Soot       | Lampblack, Kajal(in Hindi), Kalikh(sometimes in some sense)                                                                                  |
-   | Languish   | (of a person or other living thing) lose or lack vitality; grow weak or feeble                                                               |
-   | Attic      | a space or room just below the roof of a building                                                                                            |
-   | Ajar       | (of a door or other opening) slightly open                                                                                                   |
-   | Servile    | having or showing an excessive willingness to serve or please others, Gulami(in Hindi)                                                       |
-   | Queers     | strange; odd.                                                                                                                                |
-   | Sphinx     | Puzzler                                                                                                                                      |
-   | Prudish    | Pakhandi or Nakhrebaz(in Hindi), hypocritical, sanctimonious                                                                                 |
-   | Blissful   | Delightful                                                                                                                                   |
-   | Uncouth    | Ganwar(in Hindi), churlish, arcadian                                                                                                         |
-   | Labyrinth  | Maze or Bhoolbhulaiya(in Hindi)                                                                                                              |
-   | Devout     | Dharmik(in Hindi), devotee                                                                                                                   |
-   | Succulent  | Plupy, juicy, Raseela(in Hindi)                                                                                                              |
-   | Eruption   | Blast, explosion                                                                                                                             |
-   | Apparition | Ghost, phantom, sprite, bhoot-preth(in Hindi)                                                                                               |
+   | Words      | Meaning                                                                                                                                               |
+   |------------+-------------------------------------------------------------------------------------------------------------------------------------------------------|
+   | Feeble     | Weakly, Imbecile                                                                                                                                      |
+   | Fathom     | Measuring the deep                                                                                                                                    |
+   | Truce      | Real, True, Accurate                                                                                                                                  |
+   | Pedant     | person who is excessively concerned with minor details and rules or with displaying academic learning                                                 |
+   | Avenge     | Revenge, Retaliate                                                                                                                                    |
+   | Silhouette | dark shape and outline of someone or something visible against a lighter background, especially in dim light.                                         |
+   | Conviction | formal declaration that someone is guilty of a criminal offense, made by the verdict of a jury or the decision of a judge in a court of law.          |
+   | Morbid     | Diseased, Ill                                                                                                                                         |
+   | Riddance   | action of getting rid of a troublesome or unwanted person or thing                                                                                    |
+   | Stank      | have a strong unpleasant smell                                                                                                                        |
+   | Stilt      | Pile, Staff                                                                                                                                           |
+   | Tart       | sharp or acid in taste                                                                                                                                |
+   | Meddle     | Tamper, interfere in or busy oneself unduly with something that is not one's concern                                                                  |
+   | Frown      | a facial expression or look characterized by a furrowing of one's brows                                                                               |
+   | Pious      | Holy, Pure                                                                                                                                            |
+   | Engrave    | cut or carve (a text or design) on the surface of a hard object                                                                                       |
+   | Soot       | Lampblack, Kajal(in Hindi), Kalikh(sometimes in some sense)                                                                                           |
+   | Languish   | (of a person or other living thing) lose or lack vitality; grow weak or feeble                                                                        |
+   | Attic      | a space or room just below the roof of a building                                                                                                     |
+   | Ajar       | (of a door or other opening) slightly open                                                                                                            |
+   | Servile    | having or showing an excessive willingness to serve or please others, Gulami(in Hindi)                                                                |
+   | Queers     | strange; odd.                                                                                                                                         |
+   | Sphinx     | Puzzler                                                                                                                                               |
+   | Prudish    | Pakhandi or Nakhrebaz(in Hindi), hypocritical, sanctimonious                                                                                          |
+   | Blissful   | Delightful                                                                                                                                            |
+   | Uncouth    | Ganwar(in Hindi), churlish, arcadian                                                                                                                  |
+   | Labyrinth  | Maze or Bhoolbhulaiya(in Hindi)                                                                                                                       |
+   | Devout     | Dharmik(in Hindi), devotee                                                                                                                            |
+   | Succulent  | Plupy, juicy, Raseela(in Hindi)                                                                                                                       |
+   | Eruption   | Blast, explosion                                                                                                                                      |
+   | Apparition | Ghost, phantom, sprite, bhoot-preth(in Hindi)                                                                                                         |
+   | Galore     | in abundance                                                                                                                                          |
+   | Sewn       | join, fasten, or repair (something) by making stitches with a needle and thread or a sewing machine                                                   |
+   | Litany     | a series of petitions for use in church services or processions, usually recited by the clergy and responded to in a recurring formula by the people. |
+   | Sobbing    | Weeping                                                                                                                                               |
+   | Rancid     | Stale, Baasi(in Hindi)                                                                                                                                |
+   | Rummaged   | search unsystematically and untidily through a mass or receptacle                                                                                     |
+   | Cordially  | cheerly, willingly                                                                                                                                    |
+   | Intoned    | emphasize, stand up, say or recite with little rise and fall of the pitch of the voice                                                                |
+   | Pavement   | footpath, any paved area or surface                                                                                                                   |
+   | Emaciated  | abnormally thin or weak, especially because of illness or a lack of food, weak                                                                                                                                                |
 
 ** Words From TV Series
 
