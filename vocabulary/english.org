@@ -55,6 +55,8 @@
    | Obstinate         | Stubborn, Ziddi(in Hindi)                                                                                                                    |
    | Capricious        | given to sudden and unaccountable changes of mood or behavior, Manmoji(in Hindi)                                                             |
    | Ivory             | Haathi Dant(in Hindi)                                                                                                                        |
+   | Tabloid           | brief, concise, abbreviated                                                                                                                  |
+   | Fiery             | stunning, fierce                                                                                                                            |
 
 ** Words From TV Series
 
