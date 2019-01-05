@@ -20,3 +20,6 @@
   - **G** : games in emacs buffer
   - **i** : irc
     - `D` : erc/default-servers
+    - `E` : erc/tls
+    - `e` : erc
+    - `i` : erc-track-switch-buffer
