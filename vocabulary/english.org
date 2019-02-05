@@ -56,7 +56,25 @@
    | Capricious        | given to sudden and unaccountable changes of mood or behavior, Manmoji(in Hindi)                                                             |
    | Ivory             | Haathi Dant(in Hindi)                                                                                                                        |
    | Tabloid           | brief, concise, abbreviated                                                                                                                  |
-   | Fiery             | stunning, fierce                                                                                                                            |
+   | Fiery             | stunning, fierce                                                                                                                             |
+   | Renounce          | abandon, leave, door karnd(in Hindi)                                                                                                         |
+   | Staggers          | vichalta, ladkhadana, dagmagata (all are in Hindi)                                                                                           |
+   | Soar              | skyrocket, oonchi udaan bharna(in Hindi)                                                                                                     |
+   | Whooshing         | move or cause to move quickly or suddenly with a rushing sound.                                                                              |
+   | Linen             | cloth woven from flax                                                                                                                        |
+   | Succumb           | die, mar jaana(in Hindi)                                                                                                                     |
+   | Evident           | obvious, revealed, zaahir(in Hindi)                                                                                                          |
+   | Crinkle           | extortion, marodna(in Hindi)                                                                                                                 |
+   | Frigid            | indifferent, cold, udaaseen(in Hindi)                                                                                                        |
+   | Cavernous         | like a cavern in size, shape, or atmosphere, gufaaon waala(in Hindi)                                                                         |
+   | Hinder            | stop, atkana(in Hindi)                                                                                                                       |
+   | Triumphant        | winner, vijayi(in Hindi)                                                                                                                     |
+   | Harbors           | shelter, aashram(in Hindi)                                                                                                                   |
+   | Complacency       | joy, prasannta(in Hindi)                                                                                                                     |
+   | Orator            | speaker, bolne waala(in Hindi)                                                                                                               |
+   | Embroider         | badhana chadhana(in Hindi)                                                                                                                   |
+   | Evangelists       | a person who seeks to convert others to the Christian faith, especially by public preaching                                                  |
+   | Maneuver          | proficiency, skills, daanv(in Hindi), kushalta(in Hindi)                                                                                     |
 
 ** Words From TV Series
 
