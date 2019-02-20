@@ -75,6 +75,11 @@
    | Embroider         | badhana chadhana(in Hindi)                                                                                                                   |
    | Evangelists       | a person who seeks to convert others to the Christian faith, especially by public preaching                                                  |
    | Maneuver          | proficiency, skills, daanv(in Hindi), kushalta(in Hindi)                                                                                     |
+   | Lout              | rustic, chuff, savage, clown, gavaar(in Hindi)                                                                                               |
+   | Sanctimonious     | hypocritical, pakhandi(in Hindi)                                                                                                             |
+   | Leisure           | vacation, leave, fursat(in Hindi)                                                                                                            |
+   | Pursuit           | chase, peecha(in Hindi)                                                                                                                    |
+
 
 ** Words From TV Series
 
