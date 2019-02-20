@@ -78,7 +78,23 @@
    | Lout              | rustic, chuff, savage, clown, gavaar(in Hindi)                                                                                               |
    | Sanctimonious     | hypocritical, pakhandi(in Hindi)                                                                                                             |
    | Leisure           | vacation, leave, fursat(in Hindi)                                                                                                            |
-   | Pursuit           | chase, peecha(in Hindi)                                                                                                                    |
+   | Pursuit           | chase, peecha(in Hindi)                                                                                                                      |
+   | Cardinal          | chief, principal, pramukh(in Hindi)                                                                                                          |
+   | Autumnal          | of, characteristic of, or occurring in autumn.                                                                                               |
+   | Meekly            | peacefully, tenderly, narmi(in Hindi)                                                                                                        |
+   | Feigned           | simulated or pretended; insincere, bahane ka(in Hindi)                                                                                       |
+   | Moan              | a long, low sound made by a person expressing physical or mental suffering or sexual pleasure, karahat(in Hindi)                             |
+   | Pricks            | suffering, pain, chubhan or peeda(in Hindi)                                                                                                  |
+   | Tread             | move, motion, speed, paav rakhna or chalna(in Hindi)                                                                                         |
+   | Emanated          | (of something abstract but perceptible) issue or spread out from (a source)                                                                  |
+   | Stench            | a strong and very unpleasant smell, badboo(in Hindi)                                                                                         |
+   | Perpetual         | continuous, nonstop, lagataar(in Hindi)                                                                                                      |
+   | Gloom             | sadness, udaasi(in Hindi)                                                                                                                    |
+   | Propped           | position something underneath (someone or something) for support                                                                             |
+   | Pittance          | a very small or inadequate amount of money paid to someone as an allowance or wage, daan(in Hindi)                                           |
+   | Envy              | jealousy, jalan(in Hindi)                                                                                                                    |
+   | Malice            | the intention or desire to do evil; ill will                                                                                                 |
+   | Sceptical         | not easily convinced; having doubts or reservations, uljhan mein(in Hindi)                                                                                                                    |
 
 
 ** Words From TV Series
